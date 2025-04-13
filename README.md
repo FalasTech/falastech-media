@@ -1,4 +1,5 @@
 [![Code for Liberation](https://img.shields.io/badge/🇵🇸%20Code_for_Liberation-falastech.org-%23E60023.svg)](https://falastech.pages.dev)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # 🌟 **FalasTech Media Assets** 🌟
 
