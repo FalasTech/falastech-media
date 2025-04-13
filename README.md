@@ -2,7 +2,7 @@
 
 # 🌟 **FalasTech Media Assets** 🌟
 
-This repository contains the official branding assets for **FalasTech** — a technology-powered movement in solidarity with Palestine. 🇵🇸💻
+This repository contains the official branding assets for **FalasTech** — an open-source, tech-for-justice collective in support of Palestinian liberation.
 
 ## 📂 **Contents**
 
