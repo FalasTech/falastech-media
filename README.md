@@ -1,3 +1,5 @@
+[![Code for Liberation](https://img.shields.io/badge/🇵🇸%20Code_for_Liberation-falastech.org-%23E60023.svg)](https://falastech.pages.dev)
+
 # 🌟 **FalasTech Media Assets** 🌟
 
 This repository contains the official branding assets for **FalasTech** — a technology-powered movement in solidarity with Palestine. 🇵🇸💻
