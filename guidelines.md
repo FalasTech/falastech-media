@@ -1,69 +1,65 @@
-# FalasTech Branding Guidelines
+# 🚀 FalasTech Branding Guidelines
 
-These guidelines ensure consistency when using FalasTech's branding across platforms, tools, and media.
-
----
-
-## 1. Logo
-
-Primary Logo:
-- Use the official FalasTech logo on all materials.
-- Maintain a clear space around the logo.
-- Do not stretch, rotate, or modify the logo colors.
-
-Logo Variants:
-- Full color (light background)
-- White version (dark background)
-- Icon only (social profile or favicon)
-
-> Logos are available in logos/ folder in .png and .svg formats.
+These guidelines ensure consistency when using **FalasTech's** branding across platforms, tools, and media.
 
 ---
 
-## 2. Colors
+## 🔰 1. Logo
 
-| Color Name      | HEX       | Usage                      |
-|-----------------|-----------|----------------------------|
-| Deep Red        | #C23636 | Accent / passion           |
-| Dark Green      | #155C4F | Primary / stability        |
-| White           | #FFFFFF | Text on dark background    |
-| Charcoal Black  | #121212 | Background / contrast      |
+**Primary Logo**  
+✅ Use the official **FalasTech** logo on all materials  
+🧼 Maintain a clear space around the logo  
+🚫 Do *not* stretch, rotate, or modify the logo colors
 
----
+**Logo Variants**  
+🎨 Full Color (for light backgrounds)  
+🌙 White Version (for dark backgrounds)  
+📱 Icon Only (for social profiles & favicons)
 
-## 3. Fonts
-
-Primary Font:  
-- Poppins (Google Fonts)  
-- Modern, clean, and readable  
-- Use bold or semi-bold for headlines
-
-> Feel free to use system alternatives like Arial or Helvetica when custom fonts are not supported.
+> 📁 Logos are available in the `logos/` folder (.png & .svg)
 
 ---
 
-## 4. Iconography
+## 🎨 2. Colors
 
-Use minimalist and open-source icons. We recommend:
-- [Lucide Icons](https://lucide.dev/)
-- [Font Awesome](https://fontawesome.com/)
-- [Feather Icons](https://feathericons.com/)
-
----
-
-## 5. Banners & Social
-
-Profile banners and social media headers are available in the banners/ folder. Please do not modify or crop the branding elements.
+| 🎨 **Color Name**     | 🧾 **HEX**   | 📌 **Usage**               |
+|----------------------|--------------|-----------------------------|
+| 🔴 Red          | `#BC000D`    | Logo Colour             |
+| 🟢 Green        | `#008525`    | Logo Colour         |
+| ⚪ White              | `#FFFFFF`    | Logo Colour     |
+| ⚫ Black     | `#000000`    | Logo Colour       |
+| 🟤 Earthy Gray-Brown     | `#48443B`    | Background Colour       |
 
 ---
 
-## 6. Attribution
+## 🔤 3. Fonts
+
+**Primary Font**:  
+🖋️ **Poppins** (via Google Fonts)  
+✅ Modern, clean, readable  
+🔠 Use **Bold** or **Semi-Bold** for headlines
+
+> 💻 System fallback fonts: *Arial*, *Helvetica* (if custom fonts are not supported)
+
+---
+
+## 📱 4. Banners & Social Media
+
+📁 Profile banners and social headers are available in the `banners/` folder.  
+🛑 **Do not** crop or alter branding elements in any way.
+
+---
+
+## 📝 5. Attribution
 
 When using FalasTech assets externally:
 
-© FalasTech — falastech.org | Licensed under CC BY 4.0
+**© FalasTech — [falastech.org](https://falastech.pages.dev)**  
+🔗 Licensed under **CC BY 4.0**
 
 ---
 
-For questions or permission to use FalasTech branding, please contact:
-**falastechps@gmail.com**
+## 📬 Contact Us
+
+Questions? Need permission?  
+📧 **falastechps@gmail.com**
