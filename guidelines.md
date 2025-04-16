@@ -54,7 +54,7 @@ These guidelines ensure consistency when using **FalasTech's** branding across p
 
 When using FalasTech assets externally:
 
-**© FalasTech — [falastech.org](https://falastech.pages.dev)**  
+**© FalasTech — [falastech.org](https://falastech.org)**  
 🔗 Licensed under **CC BY 4.0**
 
 ---
@@ -62,4 +62,4 @@ When using FalasTech assets externally:
 ## 📬 Contact Us
 
 Questions? Need permission?  
-📧 **falastechps@gmail.com**
+📧 **info@falastech.org**
